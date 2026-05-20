@@ -1,4 +1,4 @@
-{
+bu{
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "builderssmp1",
+    "ip": "builderssmp1.aternos.me",
     "port": 14097,
     "version": "",
     "try-creative": false
