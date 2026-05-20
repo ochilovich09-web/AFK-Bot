@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "builderssmp1.aternos.me",
+    "ip": "builderssmp1.aternos.me:14097",
     "port": 14097,
-    "version": "1.8",
+    "version": "",
     "try-creative": false
   },
   "position": {
